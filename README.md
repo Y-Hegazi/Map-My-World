@@ -49,3 +49,5 @@ Before you can start mapping your environment using this repository, make sure y
 **2dMap**
 
 ![Description 2](./my_robot/media//graph.png)
+
+**db file**: https://drive.google.com/file/d/1o5_blUGKBRuJY-CZlynSk5rO3vPqWCD4/view?usp=sharing
